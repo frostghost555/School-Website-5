@@ -1,0 +1,53 @@
+.image-logo {
+    height: 800px;
+    width: 800px;
+}
+
+p1 {
+    color: red;
+    font-size: 30;
+}
+
+p2 {
+    color: darkorange;
+    font-size: 30;
+}
+
+p3 {
+    color: orange;
+    font-size: 30;
+}
+
+p4 {
+    color: greenyellow;
+    font-size: 30;
+}
+
+p5 {
+    color: forestgreen;
+    font-size: 30;
+}
+
+p6 {
+    color: deepskyblue;
+    font-size: 30;
+}
+
+p7 {
+    color: purple;
+    font-size: 30;
+}
+
+
+p8 {
+    font-size: 18;
+}
+
+p9 {
+    font-size:20;
+}
+
+body {
+    background: linear-gradient(green, yellow);;
+}
+
